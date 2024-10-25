@@ -48,7 +48,7 @@ window.onload = () => {
       content: {
         title: "고한준 ♥ 유지원의 모바일 청첩장",
         description: "결혼식에 초대합니다♡",
-        imageUrl: "https://i.imgur.com/EcPItqc.png",
+        imageUrl: "https://i.imgur.com/63aVXdi.png",
         imageWidth: 1200,
         imageHeight: 630,
         link: {
