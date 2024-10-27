@@ -129,7 +129,7 @@ body {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   grid-gap: 5px;
-  background-color: #FEF8E2;
+  background-color: ##FBF1F1;
   /* (A2) OPTIONAL WIDTH RESTRICT */
   max-width: 1000px;
   margin: 0 auto;
